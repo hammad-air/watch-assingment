@@ -1,0 +1,18 @@
+.body{
+    margin-top: 50px;
+    background-color: rgb(12, 7, 16);
+    text-align: center;
+    /* background-image: url("https://pngimg.com/uploads/stopwatch/stopwatch_PNG141.png"); */
+    }
+h1{
+    color: blue;
+    display:  inline-block;
+    width: 100px;
+    background-color: white;
+}
+h2{
+    color: rgb(238, 229, 229);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bolder;
+}
